@@ -22,8 +22,6 @@ I developed this project to investigate customer shopping behavior and provide d
 
 ✅ **Reporting & Recommendations:** Documented key findings and presented actionable recommendations in a clear, business-focused format.
 
-![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
-
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
