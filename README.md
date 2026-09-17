@@ -1,25 +1,26 @@
 # 👨🏻‍💻Customer Shopping Behavior Analysis | Shubham Prajapati
 This is an end-to-end Data Analyst portfolio project by **Shubham Prajapati**, focused on understanding customer shopping patterns and translating them into practical business recommendations. It demonstrates the complete analytics workflow: data preparation, SQL analysis, dashboard development, and stakeholder-ready reporting.
 
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
+## 📊 What I Delivered
+- Built a complete customer behavior analysis workflow using Python, SQL, and Power BI.
+- Cleaned, transformed, and modeled raw shopping data for reliable analysis.
+- Answered business questions about customer segments, purchase frequency, loyalty, and product performance.
+- Created stakeholder-ready dashboards, reports, and recommendations from the analysis.
 
 ## 🎯 Portfolio Focus
-This project showcases my ability to turn customer data into clear insights for marketing, product, and retail decision-making. It is designed as a practical work sample for Data Analyst applications.
+This project demonstrates my ability to turn customer data into clear insights for marketing, product, and retail decision-making. It is one of my practical Data Analyst work samples and reflects how I approach a real business analytics assignment.
 
 
 ## 📌 Project Overview
-The goal of this project is to demonstrate a corporate-style analytics workflow and answer business questions such as customer segmentation, loyalty, purchase behavior, and product performance by:
+I developed this project to investigate customer shopping behavior and provide data-backed recommendations around segmentation, loyalty, purchase behavior, and product performance. My workflow includes:
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+✅ **Data Preparation, Modeling & Exploratory Data Analysis (Python):** Cleaned and transformed the raw dataset, explored patterns, and prepared analysis-ready data.
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+✅ **Data Analysis (SQL):** Wrote queries to extract insights on customer segments, loyalty, purchase drivers, and business performance.
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+✅ **Visualization & Insights (Power BI):** Built an interactive dashboard highlighting key patterns and trends for stakeholder decision-making.
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+✅ **Reporting & Recommendations:** Documented key findings and presented actionable recommendations in a clear, business-focused format.
 
 ![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
@@ -40,7 +41,7 @@ The goal of this project is to demonstrate a corporate-style analytics workflow 
 
       - Data cleaning
 
-      - Connection to SQL Database
+      - Connection to the SQL database
   
 3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
 
@@ -50,19 +51,19 @@ The goal of this project is to demonstrate a corporate-style analytics workflow 
   
       - Open **customer_behavior_sql_queries.sql**
   
-      - Answer Business Questions using SQL Queries 
+      - Answer business questions using the SQL queries
       
 4. **Connect the SQL Database to Power BI**
 
       - Open **customer_behavior_dashboard.pbix**
    
-      - Create interactive dashboard in Power BI
+      - Review the interactive dashboard in Power BI
   
-6. **Create Project Report and Presentation**
+6. **Review the Project Report and Presentation**
 
-      - Create project report
+      - Review the project report
    
-      - Build presentation deck using Gamma AI
+      - Review the presentation deck and business recommendations
   
 ## 📜 License
 
